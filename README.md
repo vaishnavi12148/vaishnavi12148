@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on **Data Analytics and Machine Learning projects**<br>👯 I’m looking to collaborate on **Data Science, Machine Learning, Data Analytics, and Python projects**<br>🤝 I’m looking for help with **Building real-world Machine Learning projects and improving my Data Science skills**<br>🌱 I’m currently learning **ML, Data Science, and AI**<br>💬 Ask me about **Python, SQL, Power BI, Data Analytics, and Machine Learning**<br>⚡ Fun fact : **I enjoy turning raw data into meaningful insights and interactive dashboards.**<br>
+🎓 3rd-year Computer Engineering student building my skills in Data Analytics, Data Science, and Machine Learning.
+
+📊 I enjoy working with data — from cleaning and analyzing raw datasets to creating interactive dashboards and data-driven insights.
+
+🛠️ My current toolkit includes Python, SQL, Excel, Power BI, Pandas, NumPy, and Scikit-learn.
+
+🤖 Currently exploring Machine Learning and AI through hands-on projects and practical applications.
+
+🚀 I'm interested in building real-world data and ML projects that go beyond tutorials and solve meaningful problems.
+
+💡 Fun fact: I enjoy turning messy data into something useful, understandable, and visually engaging
 
 
 ## 🌐 Socials:
